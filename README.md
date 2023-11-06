@@ -19,9 +19,9 @@ Knucklehead is a mnemonic, macOS-optimized, 42[^1] key ergo columnar keyboard la
 
 ---
 
-<img src="img/corneish_zen.svg" alt="minusfive's keymap layout graphical representation" width="100%" />
+<img src="img/splitkb_aurora_corne.svg" alt="keymap layout graphical representation" width="100%" />
 
-![minusfive's Corne-ish Zen](img/corneish_zen.png)
+![splikb.com Aurora Corne](img/splitkb_aurora_corne.png)
 
 > Drawn with [Keymap Drawer](/caksoylar/keymap-drawer)
 
